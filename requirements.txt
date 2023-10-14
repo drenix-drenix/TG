@@ -1,0 +1,7 @@
+aiogram
+telethon
+colorama
+opentele
+PySocks
+peewee
+phonenumbers
